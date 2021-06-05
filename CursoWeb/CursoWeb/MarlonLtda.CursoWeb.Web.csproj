@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarlonLtda.CursoWeb.Aplicacao\MarlonLtda.CursoWeb.Aplicacao.csproj" />
+    <ProjectReference Include="..\MarlonLtda.CursoWeb.Dominio\MarlonLtda.CursoWeb.Dominio.csproj" />
+    <ProjectReference Include="..\MarlonLtda.CursoWeb.Infra\MarlonLtda.CursoWeb.Infra.csproj" />
+  </ItemGroup>
+
+
+</Project>

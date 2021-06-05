@@ -1,0 +1,12 @@
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.deps.json
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.csprojAssemblyReference.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.AssemblyInfoInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.AssemblyInfo.cs
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.csproj.CoreCompileInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Infra\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.deps.json
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.AssemblyInfoInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.AssemblyInfo.cs
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Dominio\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.csprojAssemblyReference.cache

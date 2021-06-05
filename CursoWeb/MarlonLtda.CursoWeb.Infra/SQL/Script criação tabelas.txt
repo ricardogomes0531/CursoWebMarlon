@@ -1,0 +1,6 @@
+﻿if (object_id('cursoweb')) is null
+create database cursoweb
+if (object_id('curso')) is null
+create table curso (id int identity primary key, nome varchar(50) not null, professor varchar(50) not null)
+if (object_id('aluno')) is null
+create table aluno(id int identity primary key, idcurso int not null, nome varchar(50) not null)

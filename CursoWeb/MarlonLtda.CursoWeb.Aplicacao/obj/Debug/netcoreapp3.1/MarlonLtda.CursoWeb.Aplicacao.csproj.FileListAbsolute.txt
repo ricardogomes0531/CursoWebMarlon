@@ -1,0 +1,14 @@
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.deps.json
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.csprojAssemblyReference.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.AssemblyInfo.cs
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Infra.pdb
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\obj\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Aplicacao.csproj.CopyComplete
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.dll
+C:\Users\u005481\source\repos\CursoWeb\MarlonLtda.CursoWeb.Aplicacao\bin\Debug\netcoreapp3.1\MarlonLtda.CursoWeb.Dominio.pdb
