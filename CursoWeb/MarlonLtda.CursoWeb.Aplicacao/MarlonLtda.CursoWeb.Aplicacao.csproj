@@ -13,9 +13,4 @@
     <ProjectReference Include="..\MarlonLtda.CursoWeb.Infra\MarlonLtda.CursoWeb.Infra.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interface\" />
-    <Folder Include="Servicos\" />
-  </ItemGroup>
-
 </Project>

@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using MarlonLtda.CursoWeb.Aplicacao.Interface;
+using MarlonLtda.CursoWeb.Aplicacao.Servicos;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MarlonLtda.CursoWeb.Aplicacao.Config
 {
@@ -6,7 +8,8 @@ namespace MarlonLtda.CursoWeb.Aplicacao.Config
     {
         public static IServiceCollection AdicionarServico(this IServiceCollection service)
         {
-            return service;
+            service.AddScoped<ICursoServico, CursoServico>();
+                        return service;
         }
     }
 }

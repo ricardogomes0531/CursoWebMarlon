@@ -1,4 +1,5 @@
-﻿using MarlonLtda.CursoWeb.Infra.Interface;
+﻿using MarlonLtda.CursoWeb.Dominio.Entidades;
+using MarlonLtda.CursoWeb.Infra.Interface;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -38,5 +39,31 @@ namespace MarlonLtda.CursoWeb.Infra.Repositorio
                 retorno = true;
             return retorno;
         }
-    }
+
+        public IList<Curso> ListarCursos(string nome)
+        {
+            IList<Curso> cursos = new List<Curso>();
+            SqlCommand query = new SqlCommand("select * from curso where nome=@nome", _conexao);
+            _conexao.Open();
+            SqlParameter parametroNome = new SqlParameter()
+            {
+                ParameterName = "nome",
+                SqlDbType = System.Data.SqlDbType.VarChar,
+                Value = nome
+            };
+            query.Parameters.Add(parametroNome);
+            SqlDataReader dados = query.ExecuteReader();
+            while (dados.Read())
+            {
+                Curso curso = new Curso()
+                {
+                    Id = dados.GetInt32(dados.GetOrdinal("id")),
+                    Nome = dados.GetString(dados.GetOrdinal("nome")),
+                    Professor = dados.GetString(dados.GetOrdinal("professor"))
+                };
+                cursos.Add(curso);
+            }
+            return cursos;
+        }
+                    }
 }
